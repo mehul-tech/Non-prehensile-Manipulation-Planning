@@ -1,0 +1,15 @@
+task4_grasp_place_start
+grasp_step=0 obj=(0.0000, 0.0000) ee=(-0.1996, 0.0987) pos_err=0.2227 yaw_err=0.0090 valid=True
+grasp_step=1 obj=(-0.0000, 0.0000) ee=(-0.1397, 0.0376) pos_err=0.1446 yaw_err=-0.0001 valid=True
+grasp_step=2 obj=(-0.0000, 0.0000) ee=(-0.0768, 0.0055) pos_err=0.0770 yaw_err=-0.0001 valid=True
+grasp_step=3 obj=(0.0000, 0.0000) ee=(-0.0144, -0.0000) pos_err=0.0144 yaw_err=0.0001 valid=True
+grasp_pose_reached step=4
+gripper_closed
+place_step=0 obj=(0.0001, 0.0007) goal_err=0.2833 grasp_err=0.0059 yaw_err=0.0000 valid=True
+place_step=1 obj=(0.0239, -0.0232) goal_err=0.2495 grasp_err=0.0059 yaw_err=-0.0003 valid=True
+place_step=2 obj=(0.0479, -0.0472) goal_err=0.2156 grasp_err=0.0058 yaw_err=-0.0003 valid=True
+place_step=3 obj=(0.0719, -0.0713) goal_err=0.1816 grasp_err=0.0058 yaw_err=-0.0002 valid=True
+place_step=4 obj=(0.0959, -0.0952) goal_err=0.1477 grasp_err=0.0058 yaw_err=-0.0004 valid=True
+place_step=5 obj=(0.1200, -0.1191) goal_err=0.1137 grasp_err=0.0058 yaw_err=-0.0005 valid=True
+goal_reached step=6
+finished success=True final_goal_dist=0.079738
